@@ -10,5 +10,6 @@ public class Sample {
 		AccessSpecfiers accessSpecfiers= new AccessSpecfiers();
 		System.out.println(accessSpecfiers.a);
 		accessSpecfiers.test_public();
+		
 	}
 }
