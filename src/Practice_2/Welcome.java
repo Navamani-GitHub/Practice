@@ -35,5 +35,8 @@ public class Welcome {
 //	Welcome welcome_objectName2 = new Welcome();  // object 
 	//welcome_objectName2.Room2();
 
+	AccessSpecfiers accessSpecfiers= new AccessSpecfiers();
+	System.out.println(accessSpecfiers.a);
+	
 	}
 }
